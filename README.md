@@ -1,12 +1,12 @@
 🌍 Carrossel de Curiosidades sobre Países
 
-Projeto Front-End simples que exibe curiosidades sobre diferentes países em formato de carrossel.  
+Projeto Front-End que exibe curiosidades sobre diferentes países em formato de carrossel.  
 O objetivo é praticar lógica em JavaScript e manipulação do DOM.
 
 🌐 Visualize o projeto:  
-Ver Projeto Online
+Ver Projeto Online: https://bucolic-kashata-8cf13e.netlify.app/
 
-🛠️ Tecnologias Utilizadas
+🚀 Tecnologias Utilizadas
 
 - HTML5 : Estrutura da página  
 - CSS3 : Estilização e layout  
@@ -18,6 +18,5 @@ Ver Projeto Online
 - Exibição de nome, bandeira e curiosidades
 - Interface simples e intuitiva
 
-👤 Autor
-
+👤 Autor:
 Leonardo Nogueira
