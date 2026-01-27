@@ -5,6 +5,7 @@ O objetivo é praticar lógica em JavaScript e manipulação do DOM.
 
 🌐 Visualize o projeto Online: https://bucolic-kashata-8cf13e.netlify.app/ 
 ---
+
 🚀 Tecnologias Utilizadas
 
 - HTML5 : Estrutura da página  
