@@ -18,6 +18,3 @@ O objetivo é praticar lógica em JavaScript e manipulação do DOM.
 - Navegação entre países (anterior / próximo)
 - Exibição de nome, bandeira e curiosidades
 - Interface simples e intuitiva
-
-👤 Autor:
-Leonardo Nogueira
