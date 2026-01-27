@@ -1,4 +1,5 @@
 🌍 Carrossel de Curiosidades sobre Países
+
 ---
 Projeto Front-End que exibe curiosidades sobre diferentes países em formato de carrossel.  
 O objetivo é praticar lógica em JavaScript e manipulação do DOM.
